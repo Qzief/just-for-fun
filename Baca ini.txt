@@ -1,0 +1,6 @@
+Install ini dlu:
+pip install opencv-python mediapipe numpy
+
+Opsional Kalau pake Json:
+pip install json5
+
